@@ -21,8 +21,11 @@ public class Class {
 			 System.out.println("enhanced for loop");
 			 for (Object object : li) {
 				 System.out.println(object);
-				
+				 
 			}
+			 boolean contains = li.contains("java");
+			 System.out.println(contains);
+			
 			 
 				
 			}

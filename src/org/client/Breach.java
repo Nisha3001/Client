@@ -21,6 +21,7 @@ public class  Breach{
 				String nextLine=s.nextLine();
 				boolean nextBoolean = s.nextBoolean();
 				System.out.println("you r female");
+				
 			
 		
 	}
